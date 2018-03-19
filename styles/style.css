@@ -1,4 +1,4 @@
-html{
+*{
     font-family: 'Montserrat', sans-serif;
     box-sizing: content-box;
 }
@@ -38,6 +38,7 @@ footer{
     background-color: #111; /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
+    padding-right: 40px;
 }
 
 /* The navigation menu links */
@@ -56,6 +57,6 @@ footer{
 
 /* Style page content */
 .main {
-    margin-left: 160px; /* Same as the width of the sidebar */
+    margin-left: 200px; /* Same as the width of the sidebar */
     padding: 10px;
 }
